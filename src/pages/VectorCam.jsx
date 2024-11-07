@@ -28,7 +28,7 @@ function VectorCam() {
                             <Navbar />
                         </div>
 
-                        <div className="h-72" />
+                        <div className="h-36" />
 
                         <div className="text-left">
                             <div className="text-7xl mb-10">
